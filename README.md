@@ -237,8 +237,6 @@ StickyBoard is deployed on **Render** with a **Neon PostgreSQL** database:
 
 <div align="center">
 
-Made with ❤️ by [Pranav](https://github.com/pranavpillai123)
-
 [![GitHub](https://img.shields.io/badge/GitHub-pranavpillai123-181717?style=flat-square&logo=github)](https://github.com/pranavpillai123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_Pillai-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranav-pillai-b0a154328/)
 
