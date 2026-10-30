@@ -42,7 +42,7 @@
 
 The app is deployed on **Render** and available at:
 
-> 🔗 [https://stickyboard.onrender.com](https://stickyboard.onrender.com)
+> 🔗 [https://stickyboard.onrender.com]([https://stickyboard.onrender.com](https://stickyboard-vjxt.onrender.com))
 
 ---
 
